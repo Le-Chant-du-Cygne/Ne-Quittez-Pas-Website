@@ -1,0 +1,12 @@
+
+body {
+    font-family: "DroidSans";
+    font-size: 20px;
+    background-color: #fff;
+}
+
+@font-face {
+    font-family: 'DroidSans';
+    src: url('../fonts/DroidSans-Bold.eot');
+    src: url('../fonts/DroidSans-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/DroidSans-Bold.woff2') format('woff2'), url('../fonts/DroidSans-Bold.woff') format('woff'), url('../fonts/DroidSans-Bold.ttf') format('truetype'), url('../fonts/DroidSans-Bold.svg#OratorStd') format('svg');
+}
